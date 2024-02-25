@@ -1,2 +1,1 @@
-for i in range(6):
-	print('*',i)
+# writing code is great practise
